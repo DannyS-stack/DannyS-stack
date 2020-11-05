@@ -1,6 +1,6 @@
 
 
-<img src="https://www.stikma.ac.id/wp-content/uploads/2017/12/Slider-Stikma-01-1024x448.jpg" >
+![Neon Green and White Professional LinkedIn Banner](https://user-images.githubusercontent.com/56674774/98279562-62ec2580-1f9a-11eb-9760-acc8ca322f60.png)
 
 
 ### Hi there 👋
