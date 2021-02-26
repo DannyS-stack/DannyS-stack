@@ -11,6 +11,6 @@
 
 💫 I decided to sign up for the Codaisseur bootcamp where they teach you how to become a full stack developer in just 11 weeks.The following months where challenging but a challenge was exactly what I was looking for and my coding skills where growing at a very fast pace. 
 
-👀 Right now I am looking for a job that can challenge me to keep learning at a high pace.
+👀 Right now I am at Weborama as a Front-End Developer.
 
 
